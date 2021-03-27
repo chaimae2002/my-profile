@@ -1,0 +1,110 @@
+body{
+ background-color: #ffe3fe;
+ color: #99bbad;
+ font-family: redressed;
+ font-weight: bold;
+ font-size: 25px;
+}
+
+
+h1{
+	color: #440a67;
+
+font-weight: bolder;
+font-family: hervetica;
+letter-spacing:1px;
+font-size: 40px;                                       
+}
+
+h2{
+   color:#93329e;
+   font-weight: bolder;
+   font-size: 40px
+  
+  }
+a{
+	text-decoration: none;
+	color: #007580
+
+}
+
+a:hover{
+	color: red
+}
+
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.shadowed{
+	
+	box-shadow: 5px 5px 3px black;
+	}
+
+#leader{
+	border:5px solid #228b22;
+
+}
+
+.tete{
+background: #fff0f5;
+padding:60px;
+margin:50px auto;
+box-shadow:0px 10px 30px;
+border-radius: 4px;
+width: 900px;
+margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+	.container{
+		width: 400px;
+	}
+}
+
+@media (max-width: 760px) {
+	.container{
+		width: 600px;
+	}
+}
+
+.Cooking{
+background: #fff0f5;
+padding:60px;
+margin:50px auto;
+box-shadow:0px 10px 30px;
+border-radius: 4px;
+width: 900px;
+}
+
+.Languages{
+
+background: #fff0f5;
+padding:60px;
+margin:50px auto;
+box-shadow:0px 10px 30px;
+border-radius: 4px;
+width: 900px;
+}
+
+
+.Travels{
+background: #fff0f5;
+padding:60px;
+margin:50px auto;
+box-shadow:0px 10px 30px;
+border-radius: 4px;
+width: 900px;
+
+}
+
+.Follow{
+background: #fff0f5;
+padding:60px;
+margin:50px auto;
+box-shadow:0px 10px 30px;
+border-radius: 4px;
+width: 900px;
+}
+
